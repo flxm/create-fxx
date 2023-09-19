@@ -2,7 +2,6 @@
   "name": "create-fxx",
   "version": "3.7.5",
   "description": "An easy way to start a Vue project",
-  "type": "module",
   "bin": {
     "create-fxx": "index.js"
   },
