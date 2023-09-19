@@ -3,7 +3,7 @@
   "version": "3.7.5",
   "description": "An easy way to start a Vue project",
   "bin": {
-    "create-fxx": "index.js"
+    "create-fxx": "./index.js"
   },
   "files": [
     "index.js"
