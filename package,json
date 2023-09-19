@@ -1,0 +1,30 @@
+{
+  "name": "create-fxx",
+  "version": "3.7.5",
+  "description": "An easy way to start a Vue project",
+  "type": "module",
+  "bin": {
+    "create-fxx": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=v16.20.0"
+  },
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flxm/fxx.git"
+  },
+  "keywords": [],
+  "author": "FeLIX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/create-vue/issues"
+  },
+  "devDependencies": {
+  }
+}
